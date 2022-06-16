@@ -1,3 +1,4 @@
+
 """# En esta clase veremos sentencia if/else
 condicion = 10
 condicion2 = False
