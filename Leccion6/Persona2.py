@@ -37,11 +37,11 @@ class Persona2:
         print('Estamos utilizando el metodo Set')
         self._edad = edad
 
-    def __del__(self): # Metodo destructor
+    def __del__(self):  # Metodo destructor
         print(f'Eliminando Persona2: {self._nombre} {self._apellido} {self._edad}')
 
-if (__name__ == '__main__'):
 
+if (__name__ == '__main__'):
     persona1 = Persona2('Maximiliano', 'Chalin', 39)
     print(persona1.nombre)  # llamamos al metodo Getter
     persona1.nombre = 'Max'  # Llamamos al metodo Setter

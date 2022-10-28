@@ -52,7 +52,7 @@ nombres.append([4, 5])  # Otra lista
 nombres.append(15)  # Un entero
 print(nombres)
 
-# Insertar un elemento en un indice especifico
+# Insertar un elemento en un índice especifico
 nombres.insert(1, "Coquito")
 print(nombres)
 
@@ -407,3 +407,7 @@ print(cola)
 atendido = cola.pop(0)
 print(f'Atendido {atendido}')
 print(cola)
+
+# Recorrer diccionario
+for i in seleccionArgentina:
+    print(f"{i} -> {seleccionArgentina[i]}")

@@ -1,6 +1,5 @@
 # Ejercicio 5: Convertidor de temperaturas
-# Realizar dos funciones para convertir de grados celsius
-# a fahrenheit y viseversa.
+# Realizar dos funciones para convertir de grados celsius a fahrenheit y viseversa.
 # Investigar las formulas
 
 # Función que convierte de celsius a fahrenheit
