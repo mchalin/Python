@@ -81,11 +81,49 @@ print(f'Resultado de la suma: {sumar2(12, 34)}')
 
 
 # Argumentos, variables en funciones
-def listarNombres(*nombres): # Normalmente se utiliza: *args
+def listarNombres(*nombres):  # Normalmente se utiliza: *args
     print(type(nombres))
-    for nombre in nombres: # Se convierte en una tupla
+    for nombre in nombres:  # Se convierte en una tupla
         print(nombre)
 
 
 listarNombres('MAxi', 'Juani', 'Vale', 'Lucia')
 listarNombres('Marcos', 'Daniel', 'Romina', 'Carolina')
+
+
+def listarTerminos(**terminos):  # Normalmente se utiliza **kwargs (Significa: key word argument)
+    print(type(terminos))
+    for llave, valor in terminos.items():
+        print(llave + " -> " + valor)
+
+
+listarTerminos()  # Al no recibir nada, no muestra nada
+listarTerminos(IDE='Integrated Development Environment', PK='Primary Key')
+listarTerminos(Nombre='Lionel Messi')
+
+
+def desplegarNombres(nombres):
+    print(type(nombres))
+    for nombre in nombres:
+        print(nombre)
+
+
+nombres2 = ['Maxi', 'Juani', 'Lucia', 'Vale']
+
+desplegarNombres(nombres2)
+desplegarNombres('Maximiliano')  # Es iterable, esta ok
+# desplegarNombres(1, 2) # No es un objeto iterable (Type int)
+desplegarNombres((1, 2))  # Es iterable al convertirlo en tupla
+desplegarNombres([1, 2])  # Es iterable al convertirlo en lista
+
+
+# Funciones recursivas
+def factorial(numero):
+    if numero == 1:  # Caso base
+        return 1
+    else:
+        return numero * factorial(numero - 1)  # Caso recursivo
+
+
+resultado = factorial(5)
+print(f'El factorial del nro 5 es: {resultado}')
