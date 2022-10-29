@@ -19,6 +19,9 @@ class Persona:
     def edad(self, edad):
         self._edad = edad
 
+    def __str__(self):  # Override = sobreescribir
+        return f'Persona        Nombre: {self._nombre}  Edad: {self._edad}'
+
     def mostrar_datos(self):
         print(f'''Mostrando datos de {self}
               Nombre: {self.nombre}
@@ -38,6 +41,9 @@ class Empleado(Persona):  # Clase hija de la clase Persona
     @sueldo.setter
     def sueldo(self, sueldo):
         self._sueldo = sueldo
+
+    def __str__(self): # Override -> Sobreescribe el metodo
+        return f'Empleado        Sueldo: {self._sueldo}  {super().__str__()}'
 
     def mostrar_datos(self):
         print(f'''Mostrando datos de {self}
@@ -72,4 +78,3 @@ print()
 
 # Mostrando datos nuevamente
 empleadoTarea.mostrar_datos()
-
