@@ -46,5 +46,5 @@ persona4 = Persona('Juani', 'Chalin', 98765432, 15, 'Telefono', '2914344434', 'C
 persona3.mostrar_detalle()
 persona4.mostrar_detalle()
 
-print(persona3._dni) # Funciona pero esta mal, esta encapsulado!!!
+print(persona3._dni)  # Funciona pero esta mal, esta encapsulado!!!
 # print(persona3.__nombre) # Totalmente encapsulado, no deja modificar desde fuera de la clase
