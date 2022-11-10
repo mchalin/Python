@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>90</y>
+      <w>210</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;FiguraGeometrica&gt;&gt;
+--
++alto
++ancho</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>270</x>
+      <y>370</y>
+      <w>210</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Cuadrado&gt;&gt;
+--
++area()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>160</y>
+      <w>150</w>
+      <h>230</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>120.0;210.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>90</y>
+      <w>210</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Color&gt;&gt;
+--
++color</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>440</x>
+      <y>160</y>
+      <w>140</w>
+      <h>230</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;210.0;100.0;10.0</additional_attributes>
+  </element>
+</diagram>
