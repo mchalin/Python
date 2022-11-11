@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>80</y>
+      <w>210</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Persona&gt;&gt;
+--
+-nombre: str
+-edad: int
+--
+mostrar_detalle()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>450</x>
+      <y>350</y>
+      <w>160</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;persona2: Persona&gt;&gt;
+--
+nombre: str ="Vale"
+edad: int = 37</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>70</x>
+      <y>350</y>
+      <w>160</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;persona1: Persona&gt;&gt;
+--
+nombre: str ="Maxi"
+edad: int = 39</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>270</y>
+      <w>420</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;400.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>520</x>
+      <y>280</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>280</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>180</y>
+      <w>30</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
+  </element>
+</diagram>
