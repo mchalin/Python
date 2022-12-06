@@ -4,24 +4,48 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>80</x>
-      <y>80</y>
+      <x>580</x>
+      <y>100</y>
       <w>210</w>
       <h>190</h>
     </coordinates>
-    <panel_attributes>&lt;&lt;Stereotype&gt;&gt;
-Package::FatClass
-{Some Properties}
+    <panel_attributes>&lt;&lt;Producto&gt;&gt;
 --
--id: Long
-_-ClassAttribute: Long_
++contador_producto: int &lt;&lt;class variables&gt;&gt;
+-id_producto: int
+-nombre: str
+-precio: float
 --
-#Operation(i: int): int
-/+AbstractOperation()/
---
-Responsibilities
--- Resp1
-*-- Resp2*</panel_attributes>
++__str__()</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>100</x>
+      <y>100</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Orden&gt;&gt;
+--
++contador_ordenes: int &lt;&lt;class variables&gt;&gt;
+-id_orden: int
+-producto &lt;&lt;Producto list&gt;&gt;
+--
++__str__()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>170</y>
+      <w>300</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;.
+&lt;&lt;aggregates&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
   </element>
 </diagram>
