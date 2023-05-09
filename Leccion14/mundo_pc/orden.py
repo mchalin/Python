@@ -1,4 +1,4 @@
-from mundo_pc.computadora import *
+from Leccion14.mundo_pc.computadora import *
 
 
 class Orden:

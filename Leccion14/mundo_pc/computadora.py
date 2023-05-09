@@ -1,6 +1,6 @@
-from mundo_pc.monitor import *
-from mundo_pc.raton import *
-from mundo_pc.teclado import *
+from Leccion14.mundo_pc.monitor import *
+from Leccion14.mundo_pc.raton import *
+from Leccion14.mundo_pc.teclado import *
 
 
 class Computadora:
