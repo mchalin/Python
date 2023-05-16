@@ -1,6 +1,6 @@
 import psycopg2  # Librería para conectar con PostgreSQL
 
-dns = "dbname=test_bd user=postgres1 password=admin host=127.0.0.1 port=5432"
+dns = "dbname=test_bd user=postgres password=admin host=127.0.0.1 port=5432"
 conexion = psycopg2.connect(dns)
 
 # Mostrar todos los registros
