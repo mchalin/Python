@@ -28,6 +28,7 @@ try:
             id_persona = input('Ingrese nro de id_persona: ')
             # Ejecutamos la sentencia con el valor de la variable (como una tupla)
             cursor.execute(sentencia, (id_persona,))
+            
 
             # cursor.execute(sentencia)  # Ejecutamos la sentencia
 
