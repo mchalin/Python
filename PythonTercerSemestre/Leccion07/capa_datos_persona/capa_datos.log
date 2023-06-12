@@ -10,3 +10,69 @@ WARNING (23/05/2023 03:13:12 PM): Mensaje a nivel warning (Linea: 23) [logger_ba
 ERROR (23/05/2023 03:13:12 PM): Mensaje a nivel error (Linea: 24) [logger_base.py]
 CRITICAL (23/05/2023 03:13:12 PM): Mensaje a nivel critical (Linea: 25) [logger_base.py]
 INFO (23/05/2023 03:13:12 PM): Desde otro_modulo.py (Linea: 5) [otro_modulo.py]
+DEBUG (12/06/2023 07:33:54 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 54) [Persona.py]
+DEBUG (12/06/2023 07:33:54 PM): 
+            Id: 1, 
+            Nombre: Juan Carlos, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 57) [Persona.py]
+DEBUG (12/06/2023 07:33:54 PM): 
+            Id: 1, 
+            Nombre: Juan Carlos, 
+            Apellido: Lara, 
+            Email: juan@perez.com
+         (Linea: 60) [Persona.py]
+DEBUG (12/06/2023 07:40:51 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 55) [Persona.py]
+DEBUG (12/06/2023 07:40:51 PM): 
+            Id: 1, 
+            Nombre: Juan Carlos, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 58) [Persona.py]
+DEBUG (12/06/2023 07:40:51 PM): 
+            Id: None, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 61) [Persona.py]
+DEBUG (12/06/2023 07:42:35 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 55) [Persona.py]
+DEBUG (12/06/2023 07:42:35 PM): 
+            Id: 1, 
+            Nombre: Juan Carlos, 
+            Apellido: Perez, 
+            Email: juan@perez.com
+         (Linea: 58) [Persona.py]
+DEBUG (12/06/2023 07:42:35 PM): 
+            Id: None, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 62) [Persona.py]
+DEBUG (12/06/2023 07:42:35 PM): 
+            Id: 2, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+         (Linea: 65) [Persona.py]
+DEBUG (12/06/2023 08:10:25 PM): Conexión exitosa: <connection object at 0x000001763DA52F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+ERROR (12/06/2023 08:13:36 PM): Ocurrió una excepción al obtener la conexión: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgre"
+ (Linea: 30) [conexion.py]
+DEBUG (12/06/2023 08:13:50 PM): Conexión exitosa: <connection object at 0x00000178362E2F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 08:14:57 PM): Conexión exitosa: <connection object at 0x0000029B9E542F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 08:14:57 PM): Se abrió el cursor exitosamente: <cursor object at 0x0000029BA07B1EE0; closed: 0> (Linea: 40) [conexion.py]
