@@ -76,3 +76,93 @@ ERROR (12/06/2023 08:13:36 PM): Ocurrió una excepción al obtener la conexión: co
 DEBUG (12/06/2023 08:13:50 PM): Conexión exitosa: <connection object at 0x00000178362E2F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
 DEBUG (12/06/2023 08:14:57 PM): Conexión exitosa: <connection object at 0x0000029B9E542F00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
 DEBUG (12/06/2023 08:14:57 PM): Se abrió el cursor exitosamente: <cursor object at 0x0000029BA07B1EE0; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:16:38 PM): Conexión exitosa: <connection object at 0x000002274A471AD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 09:16:38 PM): Se abrió el cursor exitosamente: <cursor object at 0x000002274C4EA180; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:17:44 PM): Conexión exitosa: <connection object at 0x000001466CB71AD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 09:17:44 PM): Se abrió el cursor exitosamente: <cursor object at 0x000001466E9C6260; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Chalin, 
+            Email: juan@chalin.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 2, 
+            Nombre: Lucia, 
+            Apellido: Chalin, 
+            Email: lucia@chalin.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 5, 
+            Nombre: Maxi, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 6, 
+            Nombre: Juan Carlos, 
+            Apellido: Esparza, 
+            Email: juan@esparza.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 12, 
+            Nombre: Coco, 
+            Apellido: Cato, 
+            Email: ccato@mail.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 13, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 14, 
+            Nombre: Luis, 
+            Apellido: Gonzalez, 
+            Email: luis@gonzalez.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 16, 
+            Nombre: Maria, 
+            Apellido: Esparza, 
+            Email: mesparza@mail.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 17, 
+            Nombre: Mario, 
+            Apellido: Esparzo, 
+            Email: mesparzo@mail.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:17:44 PM): 
+            Id: 18, 
+            Nombre: Jorge, 
+            Apellido: Tangalanga, 
+            Email: jtangalanga@mail.com
+         (Linea: 37) [persona_dao.py]
+DEBUG (12/06/2023 09:31:29 PM): Conexión exitosa: <connection object at 0x000001F850E71AD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 09:31:29 PM): Se abrió el cursor exitosamente: <cursor object at 0x000001F853076260; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:31:29 PM): Persona insertada: 
+            Id: None, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: pedro@romero.com
+         (Linea: 39) [persona_dao.py]
+DEBUG (12/06/2023 09:31:29 PM): Personas insertadas: 1 (Linea: 47) [persona_dao.py]
+DEBUG (12/06/2023 09:46:22 PM): Conexión exitosa: <connection object at 0x00000206A7851AD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 09:46:22 PM): Se abrió el cursor exitosamente: <cursor object at 0x00000206A9A5A260; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:46:22 PM): Persona actualizada: 
+            Id: 5, 
+            Nombre: Maximiliano Alberto, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 48) [persona_dao.py]
+DEBUG (12/06/2023 09:49:33 PM): Conexión exitosa: <connection object at 0x000001E685401AD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 27) [conexion.py]
+DEBUG (12/06/2023 09:49:33 PM): Se abrió el cursor exitosamente: <cursor object at 0x000001E68760A260; closed: 0> (Linea: 40) [conexion.py]
+DEBUG (12/06/2023 09:49:33 PM): Persona eliminada: 
+            Id: 16, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+         (Linea: 57) [persona_dao.py]
+DEBUG (12/06/2023 09:49:33 PM): Personas eliminadas: 1 (Linea: 74) [persona_dao.py]
