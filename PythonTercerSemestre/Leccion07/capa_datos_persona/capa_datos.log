@@ -166,3 +166,12 @@ DEBUG (12/06/2023 09:49:33 PM): Persona eliminada:
             Email: None
          (Linea: 57) [persona_dao.py]
 DEBUG (12/06/2023 09:49:33 PM): Personas eliminadas: 1 (Linea: 74) [persona_dao.py]
+DEBUG (13/06/2023 06:11:33 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001ED52BE0A60> (Linea: 70) [conexion.py]
+DEBUG (13/06/2023 06:11:33 PM): Conexión obtenida del pool: <connection object at 0x000001ED50933010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:11:33 PM): Conexión obtenida del pool: <connection object at 0x000001ED50932DF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E63B8D0CA0> (Linea: 70) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639622DF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623CD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623DE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
