@@ -175,3 +175,602 @@ DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object a
 DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
 DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623CD0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
 DEBUG (13/06/2023 06:16:02 PM): Conexión obtenida del pool: <connection object at 0x000001E639623DE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000027059710D00> (Linea: 70) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Regresamos la conexion del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Regresamos la conexion del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Regresamos la conexion del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057823010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057822DF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (30/06/2023 07:31:50 PM): Conexión obtenida del pool: <connection object at 0x0000027057823560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000264B4BD0D00> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Regresamos la conexion del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Regresamos la conexion del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Regresamos la conexion del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2903010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2902DF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 06:51:13 PM): Conexión obtenida del pool: <connection object at 0x00000264B2903560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 07:53:32 PM): Inicio de with método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:53:32 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002405482BE50> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 07:53:32 PM): Conexión obtenida del pool: <connection object at 0x0000024054273010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 07:53:32 PM): [(2, 'Lucia', 'Chalin', 'lucia@chalin.com'), (1, 'Juan', 'Chalin', 'juan@chalin.com'), (6, 'Juan Carlos', 'Esparza', 'juan@esparza.com'), (13, 'Karla', 'Gomez', 'karla@gomez.com'), (14, 'Luis', 'Gonzalez', 'luis@gonzalez.com'), (17, 'Mario', 'Esparzo', 'mesparzo@mail.com'), (18, 'Jorge', 'Tangalanga', 'jtangalanga@mail.com'), (12, 'Coco', 'Cato', 'ccato@mail.com'), (19, 'Pedro', 'Romero', 'pedro@romero.com'), (5, 'Maximiliano Alberto', 'Chalin', 'mchalin@gmail.com')] (Linea: 33) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:53:32 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:53:32 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:53:32 PM): Regresamos la conexion del pool: <connection object at 0x0000024054273010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D88A294C40> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM): Conexión obtenida del pool: <connection object at 0x000001D889CC3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM): Seleccionando usuarios (Linea: 24) [usuario_dao.py]
+DEBUG (15/08/2023 07:59:53 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Regresamos la conexion del pool: <connection object at 0x000001D889CC3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 65) [usuario_dao.py]
+DEBUG (15/08/2023 07:59:53 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 65) [usuario_dao.py]
+DEBUG (15/08/2023 07:59:53 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Conexión obtenida del pool: <connection object at 0x000001D889CC3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM): Usuario a insertar:  Usuario
+            Id: None, 
+            Username: Maximiliano, 
+            Password: 123456, 
+         (Linea: 36) [usuario_dao.py]
+DEBUG (15/08/2023 07:59:53 PM): Usuario insertado:  Usuario
+            Id: None, 
+            Username: Maximiliano, 
+            Password: 123456, 
+         (Linea: 39) [usuario_dao.py]
+DEBUG (15/08/2023 07:59:53 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 07:59:53 PM): Regresamos la conexion del pool: <connection object at 0x000001D889CC3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 07:59:53 PM): Usuarios insertados: 1 (Linea: 70) [usuario_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:10:11 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C19D5369E0> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:10:11 PM): Conexión obtenida del pool: <connection object at 0x000001C19B633BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:10:11 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:10:11 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:10:11 PM): Regresamos la conexion del pool: <connection object at 0x000001C19B633BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Chalin, 
+            Email: juan@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 2, 
+            Nombre: Lucia, 
+            Apellido: Chalin, 
+            Email: lucia@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 5, 
+            Nombre: Maximiliano Alberto, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 6, 
+            Nombre: Juan Carlos, 
+            Apellido: Esparza, 
+            Email: juan@esparza.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 12, 
+            Nombre: Coco, 
+            Apellido: Cato, 
+            Email: ccato@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 13, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 14, 
+            Nombre: Luis, 
+            Apellido: Gonzalez, 
+            Email: luis@gonzalez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 17, 
+            Nombre: Mario, 
+            Apellido: Esparzo, 
+            Email: mesparzo@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 18, 
+            Nombre: Jorge, 
+            Apellido: Tangalanga, 
+            Email: jtangalanga@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:10:11 PM): 
+            Id: 19, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: pedro@romero.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:13:35 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:13:35 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000029E68907340> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:13:35 PM): Conexión obtenida del pool: <connection object at 0x0000029E665E3BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:13:35 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+ERROR (15/08/2023 08:13:35 PM): Ocurrió una excepción: 'Persona' object has no attribute 'username' <class 'AttributeError'> <traceback object at 0x0000029E6705C340> (Linea: 20) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:13:35 PM): Regresamos la conexion del pool: <connection object at 0x0000029E665E3BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020241E17340> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): Conexión obtenida del pool: <connection object at 0x000002023FB63BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): Persona insertada: 
+            Id: None, 
+            Nombre: Pedro2, 
+            Apellido: Romero2, 
+            Email: pedro2@romero.com
+         (Linea: 38) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Regresamos la conexion del pool: <connection object at 0x000002023FB63BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): Personas insertadas: 1 (Linea: 62) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Conexión obtenida del pool: <connection object at 0x000002023FB63BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:15:23 PM): Regresamos la conexion del pool: <connection object at 0x000002023FB63BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Chalin, 
+            Email: juan@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 2, 
+            Nombre: Lucia, 
+            Apellido: Chalin, 
+            Email: lucia@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 5, 
+            Nombre: Maximiliano Alberto, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 6, 
+            Nombre: Juan Carlos, 
+            Apellido: Esparza, 
+            Email: juan@esparza.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 12, 
+            Nombre: Coco, 
+            Apellido: Cato, 
+            Email: ccato@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 13, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 14, 
+            Nombre: Luis, 
+            Apellido: Gonzalez, 
+            Email: luis@gonzalez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 17, 
+            Nombre: Mario, 
+            Apellido: Esparzo, 
+            Email: mesparzo@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 18, 
+            Nombre: Jorge, 
+            Apellido: Tangalanga, 
+            Email: jtangalanga@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 19, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: pedro@romero.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:15:23 PM): 
+            Id: 20, 
+            Nombre: Pedro2, 
+            Apellido: Romero2, 
+            Email: pedro2@romero.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000265684D7280> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:16:22 PM): Conexión obtenida del pool: <connection object at 0x0000026566223BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:16:22 PM): Persona actualizada: 
+            Id: 20, 
+            Nombre: Pedro Pedro, 
+            Apellido: Romm tomm, 
+            Email: 1213mchalin@gmail.com
+         (Linea: 46) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Regresamos la conexion del pool: <connection object at 0x0000026566223BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:16:22 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Conexión obtenida del pool: <connection object at 0x0000026566223BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:16:22 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:16:22 PM): Regresamos la conexion del pool: <connection object at 0x0000026566223BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Chalin, 
+            Email: juan@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 2, 
+            Nombre: Lucia, 
+            Apellido: Chalin, 
+            Email: lucia@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 5, 
+            Nombre: Maximiliano Alberto, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 6, 
+            Nombre: Juan Carlos, 
+            Apellido: Esparza, 
+            Email: juan@esparza.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 12, 
+            Nombre: Coco, 
+            Apellido: Cato, 
+            Email: ccato@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 13, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 14, 
+            Nombre: Luis, 
+            Apellido: Gonzalez, 
+            Email: luis@gonzalez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 17, 
+            Nombre: Mario, 
+            Apellido: Esparzo, 
+            Email: mesparzo@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 18, 
+            Nombre: Jorge, 
+            Apellido: Tangalanga, 
+            Email: jtangalanga@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 19, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: pedro@romero.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:16:22 PM): 
+            Id: 20, 
+            Nombre: Pedro Pedro, 
+            Apellido: Romm tomm, 
+            Email: 1213mchalin@gmail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:09 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C3C25C72E0> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:17:10 PM): Conexión obtenida del pool: <connection object at 0x000001C3C0313BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:17:10 PM): Persona eliminada: 
+            Id: 20, 
+            Nombre: None, 
+            Apellido: None, 
+            Email: None
+         (Linea: 54) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Regresamos la conexion del pool: <connection object at 0x000001C3C0313BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:17:10 PM): Personas eliminadas: 1 (Linea: 71) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Conexión obtenida del pool: <connection object at 0x000001C3C0313BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:17:10 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:17:10 PM): Regresamos la conexion del pool: <connection object at 0x000001C3C0313BC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 1, 
+            Nombre: Juan, 
+            Apellido: Chalin, 
+            Email: juan@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 2, 
+            Nombre: Lucia, 
+            Apellido: Chalin, 
+            Email: lucia@chalin.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 5, 
+            Nombre: Maximiliano Alberto, 
+            Apellido: Chalin, 
+            Email: mchalin@gmail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 6, 
+            Nombre: Juan Carlos, 
+            Apellido: Esparza, 
+            Email: juan@esparza.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 12, 
+            Nombre: Coco, 
+            Apellido: Cato, 
+            Email: ccato@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 13, 
+            Nombre: Karla, 
+            Apellido: Gomez, 
+            Email: karla@gomez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 14, 
+            Nombre: Luis, 
+            Apellido: Gonzalez, 
+            Email: luis@gonzalez.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 17, 
+            Nombre: Mario, 
+            Apellido: Esparzo, 
+            Email: mesparzo@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 18, 
+            Nombre: Jorge, 
+            Apellido: Tangalanga, 
+            Email: jtangalanga@mail.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:17:10 PM): 
+            Id: 19, 
+            Nombre: Pedro, 
+            Apellido: Romero, 
+            Email: pedro@romero.com
+         (Linea: 76) [persona_dao.py]
+DEBUG (15/08/2023 08:23:09 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:23:09 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022398017880> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:23:09 PM): Conexión obtenida del pool: <connection object at 0x00000223976F3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:23:09 PM): Seleccionando usuarios (Linea: 24) [usuario_dao.py]
+DEBUG (15/08/2023 08:23:09 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:23:09 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:23:09 PM): Regresamos la conexion del pool: <connection object at 0x00000223976F3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:23:09 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 65) [usuario_dao.py]
+DEBUG (15/08/2023 08:23:09 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 65) [usuario_dao.py]
+DEBUG (15/08/2023 08:23:09 PM):  Usuario
+            Id: 3, 
+            Username: Maximiliano, 
+            Password: 123456, 
+         (Linea: 65) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C9F7D79B70> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:24:47 PM): Conexión obtenida del pool: <connection object at 0x000001C9F5E83010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:24:47 PM): Usuario a actualizar:  Usuario
+            Id: 3, 
+            Username: mazzzzzzz, 
+            Password: chchchch, 
+         (Linea: 45) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM): Usuario actualizado:  Usuario
+            Id: 3, 
+            Username: mazzzzzzz, 
+            Password: chchchch, 
+         (Linea: 48) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Regresamos la conexion del pool: <connection object at 0x000001C9F5E83010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:24:47 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Conexión obtenida del pool: <connection object at 0x000001C9F5E83010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:24:47 PM): Seleccionando usuarios (Linea: 24) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:24:47 PM): Regresamos la conexion del pool: <connection object at 0x000001C9F5E83010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:24:47 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 80) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 80) [usuario_dao.py]
+DEBUG (15/08/2023 08:24:47 PM):  Usuario
+            Id: 3, 
+            Username: mazzzzzzz, 
+            Password: chchchch, 
+         (Linea: 80) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000232CA359BD0> (Linea: 70) [conexion.py]
+DEBUG (15/08/2023 08:26:01 PM): Conexión obtenida del pool: <connection object at 0x00000232C80A3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:26:01 PM): Usuario a eliminar:  Usuario
+            Id: 3, 
+            Username: None, 
+            Password: None, 
+         (Linea: 54) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM): Usuario eliminado:  Usuario
+            Id: 3, 
+            Username: None, 
+            Password: None, 
+         (Linea: 57) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Regresamos la conexion del pool: <connection object at 0x00000232C80A3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:26:01 PM): Usuarios eliminados: 1 (Linea: 75) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Conexión obtenida del pool: <connection object at 0x00000232C80A3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (15/08/2023 08:26:01 PM): Seleccionando usuarios (Linea: 24) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (15/08/2023 08:26:01 PM): Regresamos la conexion del pool: <connection object at 0x00000232C80A3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+DEBUG (15/08/2023 08:26:01 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 80) [usuario_dao.py]
+DEBUG (15/08/2023 08:26:01 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 80) [usuario_dao.py]
+DEBUG (16/08/2023 04:59:39 PM): Inicio de método __enter__ (Linea: 11) [cursor_del_pool.py]
+DEBUG (16/08/2023 04:59:40 PM): Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001516DA832E0> (Linea: 70) [conexion.py]
+DEBUG (16/08/2023 04:59:40 PM): Conexión obtenida del pool: <connection object at 0x000001516D5C3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 23) [conexion.py]
+DEBUG (16/08/2023 04:59:40 PM): Seleccionando usuarios (Linea: 24) [usuario_dao.py]
+DEBUG (16/08/2023 04:59:40 PM): Se ejecuta método __exit__ (Linea: 17) [cursor_del_pool.py]
+DEBUG (16/08/2023 04:59:40 PM): Commit de la transacción (Linea: 23) [cursor_del_pool.py]
+DEBUG (16/08/2023 04:59:40 PM): Regresamos la conexion del pool: <connection object at 0x000001516D5C3010; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0> (Linea: 81) [conexion.py]
+INFO (16/08/2023 04:59:40 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 04:59:40 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:00:35 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:00:35 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:02:23 PM): Salimos de la aplicación. (Linea: 19) [menu_app_usuario.py]
+INFO (16/08/2023 05:03:21 PM):  Usuario
+            Id: 1, 
+            Username: mchalin, 
+            Password: abc123, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:03:21 PM):  Usuario
+            Id: 2, 
+            Username: valvarez, 
+            Password: xyz789, 
+         (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:04:06 PM): Salimos de la aplicación. (Linea: 19) [menu_app_usuario.py]
+INFO (16/08/2023 05:05:49 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:05:49 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:05:58 PM): Salimos de la aplicación. (Linea: 19) [menu_app_usuario.py]
+INFO (16/08/2023 05:08:57 PM): Usuarios insertados: 1 (Linea: 24) [menu_app_usuario.py]
+INFO (16/08/2023 05:09:03 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:09:03 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:09:03 PM): Id Usuario: 4 Username: Juani Password: 333 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:37 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:37 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:37 PM): Id Usuario: 4 Username: Juani Password: 333 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:54 PM): Usuarios actualizados: 0 (Linea: 31) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:56 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:56 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:10:56 PM): Id Usuario: 4 Username: Juani Password: 333 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:11:26 PM): Usuarios actualizados: 1 (Linea: 31) [menu_app_usuario.py]
+INFO (16/08/2023 05:11:38 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:11:38 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:11:38 PM): Id Usuario: 4 Username: juanipt Password: 1234 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:12:06 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:12:06 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:12:06 PM): Id Usuario: 4 Username: juanipt Password: 1234 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:12:13 PM): Usuarios eliminados: 0 (Linea: 36) [menu_app_usuario.py]
+INFO (16/08/2023 05:12:18 PM): Usuarios eliminados: 1 (Linea: 36) [menu_app_usuario.py]
+INFO (16/08/2023 05:14:25 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:14:25 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 18) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:36 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:36 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:46 PM): Usuarios insertados: 1 (Linea: 27) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:48 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:48 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:48 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+ERROR (16/08/2023 05:21:55 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:55 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:55 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:21:55 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+ERROR (16/08/2023 05:22:04 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:04 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:04 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:04 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+ERROR (16/08/2023 05:22:36 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+ERROR (16/08/2023 05:22:44 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: ' ' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:48 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:48 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:48 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+ERROR (16/08/2023 05:22:50 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:50 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:50 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:22:50 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:20 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:20 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:20 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:22 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:22 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:22 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:23 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:23 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:23:23 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+ERROR (16/08/2023 05:23:26 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+ERROR (16/08/2023 05:23:31 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'asd' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:24:10 PM): Opción inválida. (Linea: 42) [menu_app_usuario.py]
+INFO (16/08/2023 05:24:14 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:24:14 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:24:14 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+ERROR (16/08/2023 05:24:18 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:24:18 PM): Opción inválida. (Linea: 42) [menu_app_usuario.py]
+INFO (16/08/2023 05:26:32 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:26:32 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:26:32 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+ERROR (16/08/2023 05:26:38 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:54 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:54 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:54 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+ERROR (16/08/2023 05:27:57 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:57 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:57 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:27:57 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 21) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:43 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:43 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:43 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+ERROR (16/08/2023 05:29:45 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'a' (Linea: 17) [menu_app_usuario.py]
+ERROR (16/08/2023 05:29:50 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'as' (Linea: 17) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:58 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:58 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:29:58 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+INFO (16/08/2023 05:30:01 PM): Opción incorrecta. (Linea: 42) [menu_app_usuario.py]
+ERROR (16/08/2023 05:30:09 PM): Ocurrió un error al ingresar la opción: invalid literal for int() with base 10: 'asdasd' (Linea: 17) [menu_app_usuario.py]
+INFO (20/08/2023 04:36:59 PM): Id Usuario: 1 Username: mchalin Password: abc123 (Linea: 22) [menu_app_usuario.py]
+INFO (20/08/2023 04:36:59 PM): Id Usuario: 2 Username: valvarez Password: xyz789 (Linea: 22) [menu_app_usuario.py]
+INFO (20/08/2023 04:36:59 PM): Id Usuario: 5 Username: mmm Password: aaa (Linea: 22) [menu_app_usuario.py]
+INFO (20/08/2023 04:37:09 PM): Opción incorrecta. (Linea: 42) [menu_app_usuario.py]
+INFO (20/08/2023 04:37:09 PM): Salimos de la aplicación. (Linea: 45) [menu_app_usuario.py]
